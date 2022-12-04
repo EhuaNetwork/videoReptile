@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/yingshi",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ehua9",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "jaeger/querylist": "^4.2",
+    "jaeger/querylist-phantomjs": "^4.0"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.4"
+  }
+}
